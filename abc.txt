@@ -1,3 +1,5 @@
 This is my first git hub text file for version control
 Be considerate in learning
 Be Watchful
+
+Now I've moved to next phase in commit
